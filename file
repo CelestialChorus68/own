@@ -1,0 +1,4 @@
+c=3
+d=4
+c, d = d, c
+print(d, c) # d= 4, c =3
